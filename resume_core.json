@@ -1,0 +1,95 @@
+{
+  "identity": {
+    "name": "James Keeling",
+    "location": "Blue Ridge, Georgia",
+    "focus": "Defense AI | Intelligence Systems | Strategic Analytics",
+    "mission_statement": "Architect modular AI systems that enhance defense-sector decision superiority and capital intelligence."
+  },
+
+  "skill_matrix": {
+    "ai_systems": [
+      "Prompt Engineering",
+      "LLM Optimization",
+      "Modular AI Framework Design",
+      "AI-Assisted Decision Systems"
+    ],
+    "data_analytics": [
+      "Data Visualization",
+      "Dashboard Architecture",
+      "Market Data Integration",
+      "Geopolitical Risk Mapping",
+      "Signal Detection"
+    ],
+    "technical_stack": [
+      "HTML",
+      "JavaScript",
+      "Chart.js",
+      "Leaflet.js",
+      "Tailwind CSS",
+      "API Integration",
+      "Lightweight Deployment Environments"
+    ],
+    "domain_focus": [
+      "Defense Technology",
+      "Autonomous Systems",
+      "Military Drone Platforms",
+      "National Security Analytics",
+      "ISR Systems"
+    ]
+  },
+
+  "experience": [
+    {
+      "role": "Creator & Prompt Engineer",
+      "organization": "Valkyrie Modular Prompt Framework",
+      "type": "Independent Project",
+      "impact_tags": [
+        "AI Architecture",
+        "Defense Analytics",
+        "Strategic Intelligence",
+        "Financial Modeling"
+      ],
+      "base_bullets": [
+        "Designed and deployed a modular AI-driven defense intelligence dashboard integrating real-time stock monitoring and geopolitical threat visualization.",
+        "Engineered structured prompt architecture enabling scalable AI reasoning and adaptive system outputs.",
+        "Integrated data visualization layers using Chart.js and Leaflet for battlefield and carrier heat mapping.",
+        "Developed capital allocation modeling framework targeting long-term defense-sector portfolio growth.",
+        "Optimized full-stack deployment for constrained cloud environments."
+      ],
+      "metrics": {
+        "deployment_type": "Single-file live deployment",
+        "optimization_focus": "Mobile-first performance",
+        "scalability_model": "Modular expansion architecture"
+      }
+    }
+  ],
+
+  "project_modules": [
+    {
+      "name": "Valkyrie Defense Intelligence Dashboard",
+      "components": [
+        "Threat-Level Gauge System",
+        "Live Price Monitoring",
+        "Geopolitical Heat Map",
+        "Capital Snowball Strategy Model"
+      ],
+      "technologies": [
+        "Chart.js",
+        "Leaflet",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+
+  "positioning_modes": {
+    "defense_contractor": {
+      "tone": "mission-driven, structured, operational impact focused"
+    },
+    "ai_startup": {
+      "tone": "innovation-focused, rapid deployment, high autonomy"
+    },
+    "analytics_role": {
+      "tone": "data-driven, modeling-heavy, metrics-oriented"
+    }
+  }
+}
